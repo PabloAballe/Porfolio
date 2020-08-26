@@ -1,0 +1,122 @@
+{
+  "configVersion": 1,
+  "timestamp": 1598435893836,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.9a8a88de531786f89a7e.js",
+        "/manifest.webmanifest",
+        "/polyfills.a4021de53358bb0fec14.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/styles.99ab1b2cebedaf04da46.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/angular.png",
+        "/assets/images/barcode.png",
+        "/assets/images/blog.png",
+        "/assets/images/css.png",
+        "/assets/images/django.png",
+        "/assets/images/github.png",
+        "/assets/images/html.png",
+        "/assets/images/javascript.png",
+        "/assets/images/laravel.png",
+        "/assets/images/libro.png",
+        "/assets/images/linux.png",
+        "/assets/images/main.png",
+        "/assets/images/music.png",
+        "/assets/images/mysql.png",
+        "/assets/images/network.png",
+        "/assets/images/php.png",
+        "/assets/images/porfile.jpg",
+        "/assets/images/python.png",
+        "/assets/images/react.png",
+        "/assets/images/server.png",
+        "/assets/video/background.mp4"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/angular.png": "353b2bb89c7221f0885cc24c9be9636ac4d87be5",
+    "/assets/images/barcode.png": "6d16b809e642c8406f2d25afdaa6f2993af4494c",
+    "/assets/images/blog.png": "d0e73c3ab7a1ac3b625495489d9a1451d10f28ea",
+    "/assets/images/css.png": "beb70a3eef8bdf2b08cb7590c40bd6198881b7e2",
+    "/assets/images/django.png": "64a3c9263d0b7e82c1412eb93614b0224e175af6",
+    "/assets/images/github.png": "0ca3273b0ca3a4406b25937d320ad278f25c52d8",
+    "/assets/images/html.png": "fccc0b373ad30bed919f7e572f885f3a4b19f815",
+    "/assets/images/javascript.png": "0ecd6d214151fa2d21a13996dfe3d52350f9c55a",
+    "/assets/images/laravel.png": "4d86bedadeb4ba14e7be64ce937d73a17c24dd65",
+    "/assets/images/libro.png": "276f5984e1bd0afbc8ea2de97602056170bff016",
+    "/assets/images/linux.png": "6996f9c93d7372545f990f7f16bc59dfcd6933f0",
+    "/assets/images/main.png": "c97043cfd6c9f60c68d7466a0a3673bfc296f1e4",
+    "/assets/images/music.png": "fec6ad0b8cdcdb33068b449065f61a7d9c3ab07c",
+    "/assets/images/mysql.png": "31a5299651fa69ffc81926e9b53b5db4f491f9a5",
+    "/assets/images/network.png": "1f9b8c90fee627c66e5ace3f27a230b928b6c1fa",
+    "/assets/images/php.png": "c647fdba9eef18a10e866d3ad9d6e0f8246104cc",
+    "/assets/images/porfile.jpg": "b74ea910694b2b362a8cb3c12581a482abde06c3",
+    "/assets/images/python.png": "202dcef263aec0fdb052779bf8eefa6b9abdee39",
+    "/assets/images/react.png": "d0eaad6a1f9e5ad16ce32a35b0e2dc01da15f31d",
+    "/assets/images/server.png": "d7eb0f3b5a79cc0f96a4af57956739740ec67a71",
+    "/assets/video/background.mp4": "89fc69202f06e6ca95b0ee46c96abca04f8011bb",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "eb6ed45703034e09da52c84a14235b0efdd76155",
+    "/main.9a8a88de531786f89a7e.js": "5e82e2baeccfa4396dbb4c2a33fe72119571364b",
+    "/manifest.webmanifest": "b2b47bd182845e3ded7f69f00922a6c11617e527",
+    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.99ab1b2cebedaf04da46.css": "f3599ac83ee15c9057a27e9048efb485e028acd6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
