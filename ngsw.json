@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1598442038569,
+  "timestamp": 1598601686732,
   "index": "https://PabloAballe.github.io/Porfolio/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://PabloAballe.github.io/Porfolio/favicon.ico",
         "https://PabloAballe.github.io/Porfolio/index.html",
-        "https://PabloAballe.github.io/Porfolio/main.33c64bc63fc2a7ebfbe9.js",
+        "https://PabloAballe.github.io/Porfolio/main.974492fb6086eae47d44.js",
         "https://PabloAballe.github.io/Porfolio/polyfills.a4021de53358bb0fec14.js",
         "https://PabloAballe.github.io/Porfolio/runtime.e227d1a0e31cbccbf8ec.js",
         "https://PabloAballe.github.io/Porfolio/styles.99ab1b2cebedaf04da46.css"
@@ -28,6 +28,9 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://PabloAballe.github.io/Porfolio/assets/animations/error.json",
+        "https://PabloAballe.github.io/Porfolio/assets/animations/github.json",
+        "https://PabloAballe.github.io/Porfolio/assets/animations/programer.json",
         "https://PabloAballe.github.io/Porfolio/assets/icons/icon-128x128.png",
         "https://PabloAballe.github.io/Porfolio/assets/icons/icon-144x144.png",
         "https://PabloAballe.github.io/Porfolio/assets/icons/icon-152x152.png",
@@ -63,6 +66,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://PabloAballe.github.io/Porfolio/assets/animations/error.json": "9b1f43a897717be3a7e6bb3bad3216bdaf488b27",
+    "https://PabloAballe.github.io/Porfolio/assets/animations/github.json": "c08e36c74063bdde1e25e364cb03cf2e487de690",
+    "https://PabloAballe.github.io/Porfolio/assets/animations/programer.json": "dea110c5486073e7b850e44654ab7e8d2a68d9c6",
     "https://PabloAballe.github.io/Porfolio/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://PabloAballe.github.io/Porfolio/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://PabloAballe.github.io/Porfolio/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -93,8 +99,8 @@
     "https://PabloAballe.github.io/Porfolio/assets/images/server.png": "d7eb0f3b5a79cc0f96a4af57956739740ec67a71",
     "https://PabloAballe.github.io/Porfolio/assets/video/background.mp4": "89fc69202f06e6ca95b0ee46c96abca04f8011bb",
     "https://PabloAballe.github.io/Porfolio/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://PabloAballe.github.io/Porfolio/index.html": "27b321ca1db29041699bc7fdd4d07b6e08cdd659",
-    "https://PabloAballe.github.io/Porfolio/main.33c64bc63fc2a7ebfbe9.js": "3aa4b8af6f398611e9ac1d28c6c4031d67443315",
+    "https://PabloAballe.github.io/Porfolio/index.html": "f1c816819555ec88f8e61f16cc516b9b2c3ea8a6",
+    "https://PabloAballe.github.io/Porfolio/main.974492fb6086eae47d44.js": "0a32cfce17f1b80c573afc7181346f5ac52b3ed5",
     "https://PabloAballe.github.io/Porfolio/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "https://PabloAballe.github.io/Porfolio/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://PabloAballe.github.io/Porfolio/styles.99ab1b2cebedaf04da46.css": "f3599ac83ee15c9057a27e9048efb485e028acd6"
